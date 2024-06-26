@@ -14,9 +14,13 @@ FooShare is a mobile app designed to streamline the process of ordering food fro
 
 ## 🔎 Demo
 
-![simple case](docs/1.jpg) ![simple case](docs/2.jpg)
-![simple case](docs/3.jpg) ![simple case](docs/4.jpg)
-![simple case](docs/5.jpg) ![simple case](docs/6.jpg)
+HomeScreen and Restaurant Shop :
+
+![simple case](docs/1.png)
+
+Social Features and Message Box:
+
+![simple case](docs/2.png)
 
 ## 📦 Tools and Libraries used
 
